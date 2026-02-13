@@ -5,31 +5,21 @@ The dataset used is the Walmart Sales Dataset from Kaggle.
 
 🔧 Technologies Used
 
-Python
-
-Pandas
-
-NumPy
-
-Matplotlib
-
-Seaborn
-
-Scikit-learn
-
-Statsmodels (ARIMA)
+1) Python
+2) Pandas
+3) NumPy
+4) Matplotlib
+5) Seaborn
+6) Scikit-learn
+7) Statsmodels (ARIMA)
 
 📊 Features
 
-Data Cleaning and Preprocessing
-
-Sales Trend Visualization
-
-Linear Regression Forecasting
-
-ARIMA Time Series Forecasting
-
-Performance Metrics (MAE, RMSE)
+1) Data Cleaning and Preprocessing
+2) Sales Trend Visualization
+3) Linear Regression Forecasting
+4) ARIMA Time Series Forecasting
+5) Performance Metrics (MAE, RMSE)
 
 📂 Dataset
 
@@ -50,11 +40,8 @@ python sales_analysis.py
 📈 Output
 
 Sales trend graph
-
 Linear regression forecast
-
 ARIMA forecast
-
 Error metrics
 
 👨‍💻 Author
@@ -63,4 +50,5 @@ Rajdeep Das
 B.Tech CSE Final Year Student
 📍 Pune, India
 📧 rajdeepd832@gmail.com
+
 🔗 GitHub:https://github.com/KIRA832
